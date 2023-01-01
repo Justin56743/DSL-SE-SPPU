@@ -18,7 +18,7 @@ def selection_sort():
                 l[j]=l[j]
 
 selection_sort()
-print("Selection sort - Top five",l[n-5:n])
+print("Selection sort - Top five",l[n-6:n])
 
 def bubble_sort():
     
@@ -34,4 +34,4 @@ def bubble_sort():
                 
       
 bubble_sort()
-print("Bubble sort - Top five",l[n-5:n])
+print("Bubble sort - Top five",l[n-6:n])
